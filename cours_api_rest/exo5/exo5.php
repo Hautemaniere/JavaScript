@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>exo4</title>
+    <title>exo5</title>
 
 </head>
 
@@ -15,7 +15,7 @@
         Exercice 5 en JS avance
     </div>
     <div>
-        <button onclick="repete()">CLIQUE !!!!!!</button>
+        <button onclick="maFonction()">CLIQUE !!!!!!</button>
     </div>
     <div id="arenne">..</div>
 </body>
